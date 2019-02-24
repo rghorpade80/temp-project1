@@ -3,6 +3,7 @@
 echo "lets try out some unix command"
 pwd
 who am i
-just for check
+just for chectk
+test git
 
-one more change
+
